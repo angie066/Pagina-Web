@@ -1,0 +1,35 @@
+body {
+    background: #f2f2f2;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 56px;
+    background: url(../img/fondo2.jpg);
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: justify; 
+}
+
+#img1{
+    width: 500px;
+}
+
+#rsu{
+    width: 500px;
+}
+
+.abs-center{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+#carouselExampleIndicators{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
